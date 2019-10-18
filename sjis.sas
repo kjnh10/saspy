@@ -1,0 +1,1 @@
+/* this is a sjis file which include japanese characters  “ú–{Œê */

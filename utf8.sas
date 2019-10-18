@@ -1,0 +1,1 @@
+/* this is a utf-8 file which include japanese characters  日本語 */
